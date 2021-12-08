@@ -25,6 +25,7 @@ We use mixed-precision training hence GPUs with Tensor Cores are recommended.
 ```
 bash scripts/download_itm.sh $PATH_TO_STORAGE
 ```
+The new txt_db file in  https://drive.google.com/drive/folders/1ZOK3jlcgGRifz8iw2-5vL89rIJcoYU3D?usp=sharing. Please download the txt_db file to replace the original one.
 
 ### Launch the Docker Container
 ```bash
